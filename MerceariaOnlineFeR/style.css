@@ -1,9 +1,11 @@
-header{
+.cabecalho {
     background-color:red;
-    color:#FFFFFF
+    color:#FFFFFF;
+    display: flex;
+    justify-content: space-around;
 }
 
-.cabeclhoImagem {
+.cabecalhoImagem {
     width: 20%;
 }
 
