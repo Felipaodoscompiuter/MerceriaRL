@@ -21,3 +21,12 @@
     margin: 0 16px;
     padding: 24px 0;
 }
+
+.sobreImagem{
+    width: 20%;
+}
+
+.sobre{
+    background-image: url("img/ImgMadeira.png");
+    display: flex;
+}
