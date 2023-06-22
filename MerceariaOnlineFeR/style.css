@@ -23,10 +23,25 @@
 }
 
 .sobreImagem{
-    width: 20%;
+    width: 40%;
 }
 
 .sobre{
     background-image: url("img/ImgMadeira.png");
     display: flex;
+    justify-content: center;
+    align-items:center;
+    padding:60px;
+
+}
+.sobreconteúdo{
+    width:40%
+}
+
+.membroImagem{
+    width: 120px;
+}
+
+.Comprar{
+    width: 120px;
 }
