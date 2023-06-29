@@ -42,6 +42,15 @@
     width: 120px;
 }
 
-.Comprar{
-    width: 120px;
+.ComprarIcone{
+    width: 140px;
+}
+
+.ProdutoSalame{
+    text-align:center;
+}
+
+.AlngunsdenossosProdutos {
+    text-align:center;
+    padding: 50px;
 }
