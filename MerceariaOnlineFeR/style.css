@@ -48,6 +48,7 @@
 
 .ProdutoTop{
     text-align:center;
+    padding-bottom: 80px;
 }
 
 .AlngunsdenossosProdutos {
@@ -64,4 +65,5 @@ grid-template-columns: 10% 20% 20% 20% 20%;
 .Rodape{
     width: 100%;
 }
+
 
